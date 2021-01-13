@@ -1,0 +1,16 @@
+/* body {
+  background-color: rgb(233, 232, 232);
+} */
+
+.bodyContainer {
+  background-color: #fff !important ;
+  padding: 2rem;
+  /* margin: 1rem; */
+}
+.topBtns button {
+  background-color: #f30 !important ;
+  border: none;
+}
+.topBtns {
+  float: right;
+}
